@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: oXfoZ <service.client@oxfoz.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Do often do you ask yourself how you could create events through Wordpress, organize job meetings, parties or holidays with your friends and contact them easily ?"
+msgstr "Vous vous êtes souvent demandé comment vous pourriez créer des évènement en utilisant wordpress, organisé des rendez vous professionnelle, des soirées ou des vacances avec vos amis et les contacter facilement ?"
+
+msgid "Then 'Post Event' is THE event plugin for wordpress you are looking for!"
+msgstr "Alors 'Post Event' est LE plugin d'évènement pour wordpress que vous recherchez !"
+
+msgid "Post Event allows you to define event information (date, location, schedule...) directly in the post administration page."
+msgstr "Post Event vous permet de définir les informations d'un évènement (date, lieux) directement dans la page d'édition d'article."
+
+msgid "All event information is automatically displayed in the post page (single.php), including Google Maps AND iCal link (integration in your agenda) without any code modification!"
+msgstr "Toutes les information de l'évènement sont automatiquement affiché dans le contenu de l'article, incluant une carte google ET un lien iCal (pour intégrer dans votre agenda) sans aucune modification de code !"
+
+msgid "It is very usefull (Google Maps and iCal integration), high-performance and can be used for any event."
+msgstr "C'est très utile (Google Maps et intégration iCal), haute performance et peut être utilisé pour tout évènement."
+
+msgid "We have based the development on the wordpress structure, without any modification of the database (event details are loaded as meta of the posts)."
+msgstr "Nous avons basé notre développement sur la structure de wordpress, sans aucune modification de base de donnée (les détails des évènements sont stockés en meta de l'article)."
+
+msgid "Map setting"
+msgstr "Configuration de la carte"
+
+msgid "Loop setting"
+msgstr "Configuration de la boucle"
+
+msgid "Ics files"
+msgstr "Fichiers ics"
+
+msgid "Subscription setting"
+msgstr "Configuration de l'inscription"
+
+msgid "To use google maps, you have to own a google key, you can get one <a href=\"http://code.google.com/apis/maps/signup.html\">here</a>"
+msgstr "Pour utiliser google map, vous devez avoir un clé google, que vous pouvez trouver <a href=\"http://code.google.com/apis/maps/signup.html\">ici</a>"
+
+msgid "Enter your google Key:"
+msgstr "Entrez votre clé google:"
+
+msgid "Choose map height:"
+msgstr "Hauteur de la carte:"
+
+msgid "Choose map width:"
+msgstr "Largeur de la carte:"
+
+msgid "Choose bubble height:"
+msgstr "Hauteur de la bulle:"
+
+msgid "Choose bubble width:"
+msgstr "Largeur de la bulle:"
+
+msgid "Update options"
+msgstr "Mettre à jour"
+
+msgid "Loop settings"
+msgstr "Configuration de la boucle"
+
+msgid "PostEvent creates the function 'query_events' which is used in the theme."
+msgstr "PostEvent fournis la fonction 'query_events' qui s'utilise dans le thème."
+
+msgid "It does the same as 'query_posts' but sorts posts by the event's start date (Desc as default)."
+msgstr "Elle fait la même chose que 'query_posts' mais elle trie les articles par date de début d'évènement (Décroissant par défaut)."
+
+msgid "To sort in asc order, the box must be checked."
+msgstr "Pour trier dans l'ordre croissant, la case doit être coché."
+
+msgid "Order event by asc:"
+msgstr "Trier par ordre croissant:"
+
+msgid "You can choose how many past events to display (Past 3 days as default)."
+msgstr "Vous pouvez choisir combien d'évènement doivent être affichés (Ancien de 3 jours par défaut)."
+
+msgid "Display past events since:"
+msgstr "Affichés les anciens évènement depuis:"
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "days"
+msgstr "jours"
+
+msgid "all"
+msgstr "Tous"
+
+msgid "When you save a post, ics files are generated, corresponding to each category."
+msgstr "Lorsque vous sauvez un article, des fichiers ics sont générés, correspondant a chacune des catégories."
+
+msgid "Here is the list of all your ics files."
+msgstr "Voici la liste de tout vos fichiers ics."
+
+msgid "Ics directory did not exist."
+msgstr "Le dossier des fichiers ics n'existe pas."
+
+msgid "Click the button to create it."
+msgstr "Cliquez sur le boutton pour les créer."
+
+msgid "Create directory"
+msgstr "Créer le dossier"
+
+msgid "You can allow visitors to join events. You have to activate the subscription option in this page, then you can manage each post event subscription in the post edit page"
+msgstr "Vous pouvez autoriser les visiteurs a s'inscrire à vos évènement. Vous devez activer l'option d'inscription dans cette page, puis vous pourrez configurer chaque inscriptions aux évènements dans la page d'édition d'article"
+
+msgid "Activate users registration"
+msgstr "Activer l'inscription des utilisateurs"
+
+msgid "Only registered users can join events"
+msgstr "Uniquement les utilisateurs enregistrés peuvent s'inscrire"
+
+msgid "If you check this box, you have to allow visitors to register into you blog"
+msgstr "Si vous cochez cette case, vous devez permettre aux visiteurs de s'inscrire sur votre blog"
+
+msgid "Allow users to see who is registered"
+msgstr "Autoriser les utilisateurs a voir qui est inscrit"
+
+msgid "Allow users to see the number of registered users to an event"
+msgstr "Autoriser les utilisateurs a voir le nombre d'inscrit à un évènement"
+
+msgid "You can save the list of registered users as a csv file. Below you can choose the parameter for your csv files"
+msgstr "Vous pouvez sauver la liste des inscrit dans un fichier csv. Ci-dessous vous pouvez choisir les paramètres de votre fichier ics"
+
+msgid "Fields separator"
+msgstr "Séparateur de case"
+
+msgid "Text separator"
+msgstr "Séparateur de texte"
+
+msgid "Only the twenty last users are displayed, to see all users download the csv file:"
+msgstr "Seulement les vingts derniers utilisateurs sont affichés, pour voir tous les inscrits, télécharger le fichier csv:"
+
+msgid "here"
+msgstr "ici"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Guests"
+msgstr "Invités"
+
+msgid "Allow subscription"
+msgstr "Ouvrir les inscriptions"
+
+msgid "Total number of participants"
+msgstr "Nombre max de participant"
+
+msgid "Number of guests each participant is allowed to bring"
+msgstr "Nombre d'invité que chaque participant peut amener"
+
+msgid "Delete event informations"
+msgstr "Supprimer les informations de l'évènement"
+
+msgid "Really delete event ?"
+msgstr "Voulez vous vraiment supprimer l'évènement ?"
+
+msgid "Start date"
+msgstr "Date de début"
+
+msgid "Map settings saved."
+msgstr "Configuration de la carte mise à jour."
+
+msgid "Loop settings saved."
+msgstr "Configuration de la boucle mise à jour."
+
+msgid "Directory created successfully."
+msgstr "Répertoire créé avec succés."
+
+msgid "Directory creation failed"
+msgstr "La création du répertoire a échoué"
+
+msgid "No ics files"
+msgstr "Aucun fichier ics"
+
+msgid "Subscription settings saved."
+msgstr "Configuration des inscriptions mise à jour"
+
+msgid "Subscription are not allowed for this event."
+msgstr "Les inscriptions ne sont pas ouverte pour cet évènement"
+
+msgid "Warning: End date more recent than start date."
+msgstr "Attention: La date de fin est plus récente que la date début."
+
+msgid "End date"
+msgstr "Date de fin"
+
+msgid "Location"
+msgstr "Lieux"
+
+msgid "oXfoZ Technologies is an experienced web design agency, with a qualified team to assist and guide you every step of your development process."
+msgstr "oXfoZ Technologies spécialiste du conseil et de la création de sites Internet à partir de solutions CMS et CRM open-source à Paris et Lyon."
+
+msgid "PostEvent is brought to you for free by oXfoZ Technologies."
+msgstr "PostEvent est propulsé gratuitement pour vous par oXfoZ Technologies."
+
+msgid "About this plugin"
+msgstr "A propos de ce plugin"
+
+msgid "About oXfoZ"
+msgstr "A propos d'oXfoZ"
+
+msgid "You must be register to join events"
+msgstr "Vou devez être enregistrés pour vous inscrire à un évènement"
+
+msgid "Register"
+msgstr "S'enregistrer"
+
+msgid "Subscription"
+msgstr "Inscription"
+
+msgid "Enter your email to register for this event : "
+msgstr "Entrez votre adresse mail pour vous inscrire à cet évènement : "
+
+msgid "Your user name is : "
+msgstr "Votre nom d'utilisateur est : "
+
+msgid "Guests number:"
+msgstr "Nombre d'invités:"
+
+msgid "Rest"
+msgstr "Reste"
+
+msgid " seat(s) for this event."
+msgstr " place pour cet évènement."
+
+msgid "Join this event"
+msgstr "Rejoindre cet évènement"
+
+msgid "You already join this event, would you like to leave it ?"
+msgstr "Vous êtes déjà inscrit à cet évènement, voulez vous vous désinscrire ?"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr " Non"
+
+msgid "When you join the event, to left it, click again on the 'Join this event' button"
+msgstr "Lorsque vous êtes inscrit à un évènement, pour le quitter, cliquez à nouveaux sur le bouton 'Rejoindre cet évènement'"
+
+msgid "Registers number:"
+msgstr "Nombre d'inscrit:"
+
+msgid "See who are register"
+msgstr "Voir qui est inscrit"
+
+msgid "Download csv file"
+msgstr "Télécharger le fichier csv"
+
+msgid "Event details"
+msgstr "Détail de l'évènement"
+
+msgid "Begin:"
+msgstr "Début:"
+
+msgid "End:"
+msgstr "Fin:"
+
+msgid "Place:"
+msgstr "Lieux:"
+
+msgid "Add to your calendar:"
+msgstr "Ajouter à votre calendrier:"
+
+msgid "Download ics file"
+msgstr "Télécharger le fichier ics"
+

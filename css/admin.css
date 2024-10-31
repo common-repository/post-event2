@@ -1,0 +1,80 @@
+.PostEventTable
+{
+	text-align: left;
+	margin-top: 20px;
+}
+
+.PostEventTable td
+{
+	padding: 5px;
+}
+
+.PostEventTable th
+{
+	width: 400px;
+	font-weight: normal;
+	padding: 5px;
+}
+
+.PostEventBoxTable
+{
+	width: 100%;
+}
+
+.PostEventBoxTable td
+{
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.oxfoz_plugin
+{
+	float: right;
+	width: 300px;
+	margin-top: 40px;
+	margin-right: -20px;
+}
+
+.oxfoz_plugin h2
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.oxfoz_plugin_about
+{
+	background-color: #FFFFFF;
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px #CCCCCC solid;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+#map-img
+{
+	background:transparent url(../Pictures/map.png) no-repeat -6px;
+	border: 1px #CCCCCC solid;
+	margin-right: 8px;
+	height: 32px;
+	width: 32px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#clook-img
+{
+	background:transparent url(../Pictures/clook.png) no-repeat -2px;
+	border: 1px #CCCCCC solid;
+	margin-right: 8px;
+	height: 32px;
+	width: 32px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#postevent-plugin-page
+{
+	float: left;
+	width: 800px;
+}
